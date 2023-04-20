@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T08:20:13.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RlFLwC5d7hVa-8iBNoJX" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T08:21:11.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pJ9z0dLCgtXpSdEgdZLC" version="21.2.1" type="github">
   <diagram name="Page-1" id="EzgpfgxeJamLzXiNy5A3">
     <mxGraphModel dx="2578" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,19 +73,19 @@
         <mxCell id="m_khD0rbCl3079J2RZPN-73" value="genre" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B266FF;" vertex="1" parent="m_khD0rbCl3079J2RZPN-18">
           <mxGeometry x="160" y="210" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m_khD0rbCl3079J2RZPN-10" value="bookID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+        <mxCell id="m_khD0rbCl3079J2RZPN-10" value="ex_bookID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="10" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#E5CCFF;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-11" target="m_khD0rbCl3079J2RZPN-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m_khD0rbCl3079J2RZPN-11" value="text (string)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+        <mxCell id="m_khD0rbCl3079J2RZPN-11" value="ex_text (string)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="10" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#E5CCFF;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-13" target="m_khD0rbCl3079J2RZPN-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m_khD0rbCl3079J2RZPN-13" value="difficulty (int)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+        <mxCell id="m_khD0rbCl3079J2RZPN-13" value="ex_difficulty (int)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="10" y="60" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-17" target="m_khD0rbCl3079J2RZPN-19">
@@ -110,7 +110,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-22" target="m_khD0rbCl3079J2RZPN-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="75" />
+              <mxPoint x="390" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-22" value="book_authorsID" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="80" height="30" as="geometry" />
@@ -154,19 +159,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-40" value="Authors" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B266FF;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="60" height="80" as="geometry" />
+          <mxGeometry x="450" y="210" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#E5CCFF;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-41" target="m_khD0rbCl3079J2RZPN-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m_khD0rbCl3079J2RZPN-41" value="name (string)" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="80" height="30" as="geometry" />
+        <mxCell id="m_khD0rbCl3079J2RZPN-41" value="Authors_name (string)" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#E5CCFF;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-43" target="m_khD0rbCl3079J2RZPN-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m_khD0rbCl3079J2RZPN-43" value="family (string)" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
-          <mxGeometry x="390" y="110" width="80" height="30" as="geometry" />
+        <mxCell id="m_khD0rbCl3079J2RZPN-43" value="Authors_family (string)" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-46" target="m_khD0rbCl3079J2RZPN-59">
           <mxGeometry relative="1" as="geometry" />
@@ -213,7 +218,7 @@
         <mxCell id="m_khD0rbCl3079J2RZPN-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-61" target="m_khD0rbCl3079J2RZPN-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m_khD0rbCl3079J2RZPN-61" value="genreID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+        <mxCell id="m_khD0rbCl3079J2RZPN-61" value="ex_genreID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#E6FFCC;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-64" target="m_khD0rbCl3079J2RZPN-66">
@@ -252,8 +257,8 @@
         <mxCell id="m_khD0rbCl3079J2RZPN-77" value="genre_IsChampionat (bool)" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m_khD0rbCl3079J2RZPN-79" value="catalog_reflink" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
-          <mxGeometry x="390" y="60" width="80" height="30" as="geometry" />
+        <mxCell id="m_khD0rbCl3079J2RZPN-79" value="Authors_catalog_reflink" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-81" value="Текст по ID" style="whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1170" width="120" height="40" as="geometry" />
