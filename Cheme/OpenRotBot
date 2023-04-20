@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T08:59:49.839Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2MjjBCstriEF-ImhSJf-" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T09:02:58.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1hKSFzvE0FHrSG1mfRCF" version="21.2.1" type="github">
   <diagram name="Page-1" id="EzgpfgxeJamLzXiNy5A3">
     <mxGraphModel dx="3774" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -423,7 +423,7 @@
         <mxCell id="m_khD0rbCl3079J2RZPN-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-159" target="m_khD0rbCl3079J2RZPN-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m_khD0rbCl3079J2RZPN-159" value="Выдача слуайного текста согласно жанру этапа (проза/поэзий/нонфикшен)" style="whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
+        <mxCell id="m_khD0rbCl3079J2RZPN-159" value="Выдача слуайного одного текста согласно жанру этапа (проза/поэзий/нонфикшен)" style="whiteSpace=wrap;html=1;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="430" y="1130" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m_khD0rbCl3079J2RZPN-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m_khD0rbCl3079J2RZPN-162" target="m_khD0rbCl3079J2RZPN-159">
